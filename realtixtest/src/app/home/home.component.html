@@ -1,0 +1,45 @@
+<!--
+
+To run this demo, you need to replace 'YOUR_API_KEY' with an API key from the ArcGIS Developers dashboard.
+
+Sign up for a free account and get an API key.
+
+https://developers.arcgis.com/documentation/mapping-apis-and-services/get-started/
+
+-->
+
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>ArcGIS REST JS</title>
+    <style>
+      body {
+        font-family: monospace;
+        color: white;
+      }
+      pre {
+        overflow: auto;
+        padding: 1rem;
+      }
+      body,
+      pre {
+        background: #000000;
+      }
+    </style>
+  </head>
+  <body>
+    <pre id="result"></pre>
+    <!-- require ArcGIS REST JS libraries from https://unpkg.com -->
+    <script src="https://unpkg.com/@esri/arcgis-rest-request@4.0.0/dist/bundled/request.umd.js"></script>
+    <script>
+      /* when including ArcGIS REST JS all exports are available
+    from the same arcgisRest global */
+
+      const apiKey = "YOUR_API_KEY";
+
+      const authentication = arcgisRest.ApiKeyManager.fromKey(apiKey);
+    </script>
+  </body>
+</html>

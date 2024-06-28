@@ -1,0 +1,14700 @@
+999
+DXF created from QGIS
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1015
+  9
+$EXTMIN
+ 10
+-74.20013846999989937
+ 20
+4.51334402600008389
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+-74.02302476999994951
+ 20
+4.76229487000006202
+ 30
+0.0
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$PDMODE
+ 70
+    33
+  9
+$PDSIZE
+ 40
+     1
+  9
+$PSLTSCALE
+ 70
+     0
+  9
+$HANDSEED
+  5
+9999999
+  9
+$DWGCODEPAGE
+  3
+
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  5
+64
+100
+AcDbSymbolTable
+ 70
+     5
+  0
+LTYPE
+  5
+65
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+    64
+  3
+Defaultstyle
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+66
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+    64
+  3
+Defaultstyle
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+67
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CONTINUOUS
+ 70
+    64
+  3
+Defaultstyle
+ 72
+    65
+ 73
+     0
+ 40
+0.0
+  0
+LTYPE
+  5
+68
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASH
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     2
+ 40
+0.02335619738710756
+ 49
+0.01796630568239043
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+  0
+LTYPE
+  5
+69
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     2
+ 40
+0.01077978340943426
+ 49
+0.00538989170471713
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+  0
+LTYPE
+  5
+6a
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     4
+ 40
+0.03413598079654181
+ 49
+0.01796630568239043
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+ 49
+0.00538989170471713
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+  0
+LTYPE
+  5
+6b
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTDOT
+ 70
+    64
+  3
+
+ 72
+    65
+ 73
+     6
+ 40
+0.04491576420597607
+ 49
+0.01796630568239043
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+ 49
+0.00538989170471713
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+ 49
+0.00538989170471713
+ 74
+     0
+ 49
+-0.00538989170471713
+ 74
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+6c
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+BLOCK_RECORD
+  5
+6d
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+  0
+BLOCK_RECORD
+  5
+6e
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+  0
+BLOCK_RECORD
+  5
+6f
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space0
+  0
+BLOCK_RECORD
+  5
+70
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+symbolLayer0
+  0
+BLOCK_RECORD
+  5
+71
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+symbolLayer1
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+72
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+APPID
+  5
+73
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+74
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+75
+100
+AcDbSymbolTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+VPORT
+  5
+76
+100
+AcDbSymbolTable
+  0
+VPORT
+  5
+77
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*ACTIVE
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+1.0
+ 24
+1.0
+ 15
+1.0
+ 25
+1.0
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+-74.11158161999992444
+ 27
+4.63781944800007295
+ 40
+0.24895084399997813
+ 41
+0.71144044805875584
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+     0
+ 72
+   100
+ 73
+     1
+ 74
+     1
+ 75
+     0
+ 76
+     0
+ 77
+     0
+ 78
+     0
+281
+     0
+ 65
+     1
+110
+0.0
+120
+0.0
+130
+0.0
+111
+1.0
+121
+0.0
+131
+0.0
+112
+0.0
+122
+1.0
+132
+0.0
+ 79
+     0
+146
+0.0
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+78
+100
+AcDbSymbolTable
+100
+AcDbDimStyleTable
+ 70
+     0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+79
+100
+AcDbSymbolTable
+ 70
+     2
+  0
+LAYER
+  5
+7a
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+LAYER
+  5
+7b
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+pediatria
+ 70
+    64
+ 62
+     1
+  6
+CONTINUOUS
+390
+f
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+7c
+100
+AcDbSymbolTable
+ 70
+     1
+  0
+STYLE
+  5
+7d
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+STANDARD
+ 70
+    64
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+     0
+ 42
+5.0
+  3
+romans.shx
+  4
+
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+7e
+330
+6d
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+7f
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+80
+330
+6e
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+81
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+82
+330
+6f
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space0
+  1
+
+  0
+ENDBLK
+  5
+83
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+84
+330
+70
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+symbolLayer0
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+symbolLayer0
+  1
+
+  0
+HATCH
+  5
+85
+330
+70
+100
+AcDbEntity
+  8
+0
+ 62
+   255
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+     1
+ 92
+     3
+ 72
+     1
+ 73
+     1
+ 93
+     2
+ 10
+-0.02335619738710756
+ 20
+0.0
+ 42
+1.0
+ 10
+0.02335619738710756
+ 20
+0.0
+ 42
+1.0
+ 97
+     0
+ 75
+     0
+ 76
+     1
+ 98
+     0
+  0
+LWPOLYLINE
+  5
+86
+330
+70
+  8
+0
+100
+AcDbEntity
+100
+AcDbPolyline
+  6
+CONTINUOUS
+420
+14883356
+ 90
+     2
+ 70
+     1
+ 43
+0.00359326113647809
+ 10
+-0.02335619738710756
+ 20
+0.0
+ 42
+1.0
+ 10
+0.02335619738710756
+ 20
+0.0
+ 42
+1.0
+  0
+ENDBLK
+  5
+87
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+88
+330
+71
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+symbolLayer1
+ 70
+     0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+symbolLayer1
+  1
+
+  0
+HATCH
+  5
+89
+330
+71
+100
+AcDbEntity
+  8
+0
+420
+14883356
+100
+AcDbHatch
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+210
+0.0
+220
+0.0
+230
+1.0
+  2
+SOLID
+ 70
+     1
+ 71
+     0
+ 91
+     1
+ 92
+     2
+ 72
+     0
+ 73
+     1
+ 93
+    14
+ 10
+-0.01347472926179282
+ 20
+0.00269494585235856
+ 10
+-0.01347472926179282
+ 20
+0.00269494585235856
+ 10
+-0.01347472926179282
+ 20
+-0.00269494585235856
+ 10
+-0.00269494585235856
+ 20
+-0.00269494585235856
+ 10
+-0.00269494585235856
+ 20
+-0.01347472926179282
+ 10
+0.00269494585235856
+ 20
+-0.01347472926179282
+ 10
+0.00269494585235856
+ 20
+-0.00269494585235856
+ 10
+0.01347472926179282
+ 20
+-0.00269494585235856
+ 10
+0.01347472926179282
+ 20
+0.00269494585235856
+ 10
+0.00269494585235856
+ 20
+0.00269494585235856
+ 10
+0.00269494585235856
+ 20
+0.01347472926179282
+ 10
+-0.00269494585235856
+ 20
+0.01347472926179282
+ 10
+-0.00269494585235856
+ 20
+0.00269494585235856
+ 10
+-0.01347472926179282
+ 20
+0.00269494585235856
+ 97
+     0
+ 75
+     0
+ 76
+     1
+ 98
+     0
+  0
+LWPOLYLINE
+  5
+8a
+  8
+0
+100
+AcDbEntity
+100
+AcDbPolyline
+  6
+CONTINUOUS
+420
+14883356
+ 90
+    13
+ 70
+     1
+ 43
+0.00179663056823904
+ 10
+-0.01347472926179282
+ 20
+0.00269494585235856
+ 10
+-0.01347472926179282
+ 20
+0.00269494585235856
+ 10
+-0.01347472926179282
+ 20
+-0.00269494585235856
+ 10
+-0.00269494585235856
+ 20
+-0.00269494585235856
+ 10
+-0.00269494585235856
+ 20
+-0.01347472926179282
+ 10
+0.00269494585235856
+ 20
+-0.01347472926179282
+ 10
+0.00269494585235856
+ 20
+-0.00269494585235856
+ 10
+0.01347472926179282
+ 20
+-0.00269494585235856
+ 10
+0.01347472926179282
+ 20
+0.00269494585235856
+ 10
+0.00269494585235856
+ 20
+0.00269494585235856
+ 10
+0.00269494585235856
+ 20
+0.01347472926179282
+ 10
+-0.00269494585235856
+ 20
+0.01347472926179282
+ 10
+-0.00269494585235856
+ 20
+0.00269494585235856
+  0
+ENDBLK
+  5
+8b
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  5
+8c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0692001529999402
+ 20
+4.62705781700009311
+  0
+INSERT
+  5
+8d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0692001529999402
+ 20
+4.62705781700009311
+  0
+INSERT
+  5
+8e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06740509599990219
+ 20
+4.6467248140000379
+  0
+INSERT
+  5
+8f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06740509599990219
+ 20
+4.6467248140000379
+  0
+INSERT
+  5
+90
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05624947699993754
+ 20
+4.7333013810000466
+  0
+INSERT
+  5
+91
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05624947699993754
+ 20
+4.7333013810000466
+  0
+INSERT
+  5
+92
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05756653799994638
+ 20
+4.66994001500006561
+  0
+INSERT
+  5
+93
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05756653799994638
+ 20
+4.66994001500006561
+  0
+INSERT
+  5
+94
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04639868099991418
+ 20
+4.76229487000006202
+  0
+INSERT
+  5
+95
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04639868099991418
+ 20
+4.76229487000006202
+  0
+INSERT
+  5
+96
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+97
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+98
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1508009529999299
+ 20
+4.62648635300007527
+  0
+INSERT
+  5
+99
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1508009529999299
+ 20
+4.62648635300007527
+  0
+INSERT
+  5
+9a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11083962899994049
+ 20
+4.58670871600008923
+  0
+INSERT
+  5
+9b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11083962899994049
+ 20
+4.58670871600008923
+  0
+INSERT
+  5
+9c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10434684499995228
+ 20
+4.70810131500007856
+  0
+INSERT
+  5
+9d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10434684499995228
+ 20
+4.70810131500007856
+  0
+INSERT
+  5
+9e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05459107399991581
+ 20
+4.67545635000004722
+  0
+INSERT
+  5
+9f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05459107399991581
+ 20
+4.67545635000004722
+  0
+INSERT
+  5
+a0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07406518099992354
+ 20
+4.60290738400004784
+  0
+INSERT
+  5
+a1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07406518099992354
+ 20
+4.60290738400004784
+  0
+INSERT
+  5
+a2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06811451799990209
+ 20
+4.63894384100007073
+  0
+INSERT
+  5
+a3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06811451799990209
+ 20
+4.63894384100007073
+  0
+INSERT
+  5
+a4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15429252899991752
+ 20
+4.62363970100005872
+  0
+INSERT
+  5
+a5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15429252899991752
+ 20
+4.62363970100005872
+  0
+INSERT
+  5
+a6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06624068599990096
+ 20
+4.63577588900005821
+  0
+INSERT
+  5
+a7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06624068599990096
+ 20
+4.63577588900005821
+  0
+INSERT
+  5
+a8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03319000899995217
+ 20
+4.69554164900006299
+  0
+INSERT
+  5
+a9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03319000899995217
+ 20
+4.69554164900006299
+  0
+INSERT
+  5
+aa
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05796462699993299
+ 20
+4.67669844200008811
+  0
+INSERT
+  5
+ab
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05796462699993299
+ 20
+4.67669844200008811
+  0
+INSERT
+  5
+ac
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09741407499990373
+ 20
+4.57225858600008905
+  0
+INSERT
+  5
+ad
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09741407499990373
+ 20
+4.57225858600008905
+  0
+INSERT
+  5
+ae
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06128514699992138
+ 20
+4.68363829800006215
+  0
+INSERT
+  5
+af
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06128514699992138
+ 20
+4.68363829800006215
+  0
+INSERT
+  5
+b0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12991791499990768
+ 20
+4.63033127400007061
+  0
+INSERT
+  5
+b1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12991791499990768
+ 20
+4.63033127400007061
+  0
+INSERT
+  5
+b2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15063956499994902
+ 20
+4.62730205300005082
+  0
+INSERT
+  5
+b3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15063956499994902
+ 20
+4.62730205300005082
+  0
+INSERT
+  5
+b4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08454160199994476
+ 20
+4.58833085400004848
+  0
+INSERT
+  5
+b5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08454160199994476
+ 20
+4.58833085400004848
+  0
+INSERT
+  5
+b6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03089664099991296
+ 20
+4.74250510500007749
+  0
+INSERT
+  5
+b7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03089664099991296
+ 20
+4.74250510500007749
+  0
+INSERT
+  5
+b8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06771134099994924
+ 20
+4.62563000500006183
+  0
+INSERT
+  5
+b9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06771134099994924
+ 20
+4.62563000500006183
+  0
+INSERT
+  5
+ba
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06402954999992971
+ 20
+4.7412253250000731
+  0
+INSERT
+  5
+bb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06402954999992971
+ 20
+4.7412253250000731
+  0
+INSERT
+  5
+bc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08740294199992604
+ 20
+4.73746617900008005
+  0
+INSERT
+  5
+bd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08740294199992604
+ 20
+4.73746617900008005
+  0
+INSERT
+  5
+be
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1533411079999496
+ 20
+4.67191336500007992
+  0
+INSERT
+  5
+bf
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1533411079999496
+ 20
+4.67191336500007992
+  0
+INSERT
+  5
+c0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10422122099993203
+ 20
+4.65947300500005213
+  0
+INSERT
+  5
+c1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10422122099993203
+ 20
+4.65947300500005213
+  0
+INSERT
+  5
+c2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15840315199994848
+ 20
+4.6157956280000576
+  0
+INSERT
+  5
+c3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15840315199994848
+ 20
+4.6157956280000576
+  0
+INSERT
+  5
+c4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05755954999995083
+ 20
+4.68113459400007059
+  0
+INSERT
+  5
+c5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05755954999995083
+ 20
+4.68113459400007059
+  0
+INSERT
+  5
+c6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06721559799990473
+ 20
+4.6296513320000372
+  0
+INSERT
+  5
+c7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06721559799990473
+ 20
+4.6296513320000372
+  0
+INSERT
+  5
+c8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03257437799993568
+ 20
+4.6968902020000769
+  0
+INSERT
+  5
+c9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03257437799993568
+ 20
+4.6968902020000769
+  0
+INSERT
+  5
+ca
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+cb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+cc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05688651199994865
+ 20
+4.67736007600007042
+  0
+INSERT
+  5
+cd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05688651199994865
+ 20
+4.67736007600007042
+  0
+INSERT
+  5
+ce
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05701027099991052
+ 20
+4.67714117100007343
+  0
+INSERT
+  5
+cf
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05701027099991052
+ 20
+4.67714117100007343
+  0
+INSERT
+  5
+d0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+d1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+d2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06108380899991062
+ 20
+4.65211029400006737
+  0
+INSERT
+  5
+d3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06108380899991062
+ 20
+4.65211029400006737
+  0
+INSERT
+  5
+d4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+d5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+d6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05458493399993358
+ 20
+4.73505192800007535
+  0
+INSERT
+  5
+d7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05458493399993358
+ 20
+4.73505192800007535
+  0
+INSERT
+  5
+d8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09118454699989798
+ 20
+4.58920376500009297
+  0
+INSERT
+  5
+d9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09118454699989798
+ 20
+4.58920376500009297
+  0
+INSERT
+  5
+da
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13092671699990888
+ 20
+4.65487805100008245
+  0
+INSERT
+  5
+db
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13092671699990888
+ 20
+4.65487805100008245
+  0
+INSERT
+  5
+dc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06868436399992106
+ 20
+4.64253761600008374
+  0
+INSERT
+  5
+dd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06868436399992106
+ 20
+4.64253761600008374
+  0
+INSERT
+  5
+de
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14460102999993296
+ 20
+4.62733852900004194
+  0
+INSERT
+  5
+df
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14460102999993296
+ 20
+4.62733852900004194
+  0
+INSERT
+  5
+e0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08099560699992026
+ 20
+4.66416079300006459
+  0
+INSERT
+  5
+e1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08099560699992026
+ 20
+4.66416079300006459
+  0
+INSERT
+  5
+e2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13094421699992154
+ 20
+4.60713756200004809
+  0
+INSERT
+  5
+e3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13094421699992154
+ 20
+4.60713756200004809
+  0
+INSERT
+  5
+e4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08933082499993361
+ 20
+4.67324811200006707
+  0
+INSERT
+  5
+e5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08933082499993361
+ 20
+4.67324811200006707
+  0
+INSERT
+  5
+e6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0863668629999097
+ 20
+4.60334028200009016
+  0
+INSERT
+  5
+e7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0863668629999097
+ 20
+4.60334028200009016
+  0
+INSERT
+  5
+e8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07448735099990245
+ 20
+4.63614298400005964
+  0
+INSERT
+  5
+e9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07448735099990245
+ 20
+4.63614298400005964
+  0
+INSERT
+  5
+ea
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03404092999994646
+ 20
+4.74185215700003937
+  0
+INSERT
+  5
+eb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03404092999994646
+ 20
+4.74185215700003937
+  0
+INSERT
+  5
+ec
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10614138199991885
+ 20
+4.58221852300005139
+  0
+INSERT
+  5
+ed
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10614138199991885
+ 20
+4.58221852300005139
+  0
+INSERT
+  5
+ee
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10644576299989694
+ 20
+4.64802353300007098
+  0
+INSERT
+  5
+ef
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10644576299989694
+ 20
+4.64802353300007098
+  0
+INSERT
+  5
+f0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09795705999994198
+ 20
+4.69189768700005061
+  0
+INSERT
+  5
+f1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09795705999994198
+ 20
+4.69189768700005061
+  0
+INSERT
+  5
+f2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04974333299992395
+ 20
+4.70441008900007773
+  0
+INSERT
+  5
+f3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04974333299992395
+ 20
+4.70441008900007773
+  0
+INSERT
+  5
+f4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05047527199991464
+ 20
+4.70453809900004671
+  0
+INSERT
+  5
+f5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05047527199991464
+ 20
+4.70453809900004671
+  0
+INSERT
+  5
+f6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04223232299995061
+ 20
+4.74802519000007806
+  0
+INSERT
+  5
+f7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04223232299995061
+ 20
+4.74802519000007806
+  0
+INSERT
+  5
+f8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09588645999991741
+ 20
+4.63469770100005007
+  0
+INSERT
+  5
+f9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09588645999991741
+ 20
+4.63469770100005007
+  0
+INSERT
+  5
+fa
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10785348099994962
+ 20
+4.5813473000000613
+  0
+INSERT
+  5
+fb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10785348099994962
+ 20
+4.5813473000000613
+  0
+INSERT
+  5
+fc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05683366199991724
+ 20
+4.69268891500007612
+  0
+INSERT
+  5
+fd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05683366199991724
+ 20
+4.69268891500007612
+  0
+INSERT
+  5
+fe
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13958435399990776
+ 20
+4.58301228100003755
+  0
+INSERT
+  5
+ff
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13958435399990776
+ 20
+4.58301228100003755
+  0
+INSERT
+  5
+100
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.109252885999922
+ 20
+4.66932626200008372
+  0
+INSERT
+  5
+101
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.109252885999922
+ 20
+4.66932626200008372
+  0
+INSERT
+  5
+102
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06618503499993267
+ 20
+4.63597454500006734
+  0
+INSERT
+  5
+103
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06618503499993267
+ 20
+4.63597454500006734
+  0
+INSERT
+  5
+104
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13253915899991853
+ 20
+4.61282082800005355
+  0
+INSERT
+  5
+105
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13253915899991853
+ 20
+4.61282082800005355
+  0
+INSERT
+  5
+106
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06931106499990847
+ 20
+4.62885172800008604
+  0
+INSERT
+  5
+107
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06931106499990847
+ 20
+4.62885172800008604
+  0
+INSERT
+  5
+108
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12139004199991632
+ 20
+4.62771237400005475
+  0
+INSERT
+  5
+109
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12139004199991632
+ 20
+4.62771237400005475
+  0
+INSERT
+  5
+10a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06075370399992153
+ 20
+4.68681291300003977
+  0
+INSERT
+  5
+10b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06075370399992153
+ 20
+4.68681291300003977
+  0
+INSERT
+  5
+10c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1533411079999496
+ 20
+4.67191336500007992
+  0
+INSERT
+  5
+10d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1533411079999496
+ 20
+4.67191336500007992
+  0
+INSERT
+  5
+10e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10887777099992491
+ 20
+4.58253832700006569
+  0
+INSERT
+  5
+10f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10887777099992491
+ 20
+4.58253832700006569
+  0
+INSERT
+  5
+110
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06532265699991058
+ 20
+4.73826448400006939
+  0
+INSERT
+  5
+111
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06532265699991058
+ 20
+4.73826448400006939
+  0
+INSERT
+  5
+112
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05803924199994981
+ 20
+4.66895420300005526
+  0
+INSERT
+  5
+113
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05803924199994981
+ 20
+4.66895420300005526
+  0
+INSERT
+  5
+114
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1360362049999253
+ 20
+4.62866696000008915
+  0
+INSERT
+  5
+115
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1360362049999253
+ 20
+4.62866696000008915
+  0
+INSERT
+  5
+116
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05651084099991976
+ 20
+4.668607879000092
+  0
+INSERT
+  5
+117
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05651084099991976
+ 20
+4.668607879000092
+  0
+INSERT
+  5
+118
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04259848799995325
+ 20
+4.748971023000081
+  0
+INSERT
+  5
+119
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04259848799995325
+ 20
+4.748971023000081
+  0
+INSERT
+  5
+11a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06205132799993862
+ 20
+4.68115363700007947
+  0
+INSERT
+  5
+11b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06205132799993862
+ 20
+4.68115363700007947
+  0
+INSERT
+  5
+11c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14118033099992999
+ 20
+4.67598477300003879
+  0
+INSERT
+  5
+11d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14118033099992999
+ 20
+4.67598477300003879
+  0
+INSERT
+  5
+11e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11084771399993087
+ 20
+4.63001206300003787
+  0
+INSERT
+  5
+11f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11084771399993087
+ 20
+4.63001206300003787
+  0
+INSERT
+  5
+120
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07892560499993806
+ 20
+4.66507843200008665
+  0
+INSERT
+  5
+121
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07892560499993806
+ 20
+4.66507843200008665
+  0
+INSERT
+  5
+122
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06440666999992573
+ 20
+4.66522890400005963
+  0
+INSERT
+  5
+123
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06440666999992573
+ 20
+4.66522890400005963
+  0
+INSERT
+  5
+124
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0402787119999175
+ 20
+4.74230199100009031
+  0
+INSERT
+  5
+125
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0402787119999175
+ 20
+4.74230199100009031
+  0
+INSERT
+  5
+126
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06538763199989717
+ 20
+4.66519392900005414
+  0
+INSERT
+  5
+127
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06538763199989717
+ 20
+4.66519392900005414
+  0
+INSERT
+  5
+128
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05760824699990508
+ 20
+4.66722787000009021
+  0
+INSERT
+  5
+129
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05760824699990508
+ 20
+4.66722787000009021
+  0
+INSERT
+  5
+12a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07892560499993806
+ 20
+4.66507843200008665
+  0
+INSERT
+  5
+12b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07892560499993806
+ 20
+4.66507843200008665
+  0
+INSERT
+  5
+12c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12251864399991064
+ 20
+4.66342675900006043
+  0
+INSERT
+  5
+12d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12251864399991064
+ 20
+4.66342675900006043
+  0
+INSERT
+  5
+12e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09855874899994888
+ 20
+4.62421736400006012
+  0
+INSERT
+  5
+12f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09855874899994888
+ 20
+4.62421736400006012
+  0
+INSERT
+  5
+130
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08011198299993794
+ 20
+4.66379628000004232
+  0
+INSERT
+  5
+131
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08011198299993794
+ 20
+4.66379628000004232
+  0
+INSERT
+  5
+132
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1542943309999032
+ 20
+4.62007593300006647
+  0
+INSERT
+  5
+133
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1542943309999032
+ 20
+4.62007593300006647
+  0
+INSERT
+  5
+134
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10326166499993406
+ 20
+4.58124483600005306
+  0
+INSERT
+  5
+135
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10326166499993406
+ 20
+4.58124483600005306
+  0
+INSERT
+  5
+136
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11694993199989767
+ 20
+4.62775703500005875
+  0
+INSERT
+  5
+137
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11694993199989767
+ 20
+4.62775703500005875
+  0
+INSERT
+  5
+138
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10026019599990832
+ 20
+4.58801588400007176
+  0
+INSERT
+  5
+139
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10026019599990832
+ 20
+4.58801588400007176
+  0
+INSERT
+  5
+13a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09793930399990813
+ 20
+4.69219101900006308
+  0
+INSERT
+  5
+13b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09793930399990813
+ 20
+4.69219101900006308
+  0
+INSERT
+  5
+13c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06611932399994203
+ 20
+4.63613089200003969
+  0
+INSERT
+  5
+13d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06611932399994203
+ 20
+4.63613089200003969
+  0
+INSERT
+  5
+13e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14190852899992024
+ 20
+4.59604685300007532
+  0
+INSERT
+  5
+13f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14190852899992024
+ 20
+4.59604685300007532
+  0
+INSERT
+  5
+140
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14108247299992627
+ 20
+4.61285156300004928
+  0
+INSERT
+  5
+141
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14108247299992627
+ 20
+4.61285156300004928
+  0
+INSERT
+  5
+142
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07794084099992915
+ 20
+4.71652070000004642
+  0
+INSERT
+  5
+143
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07794084099992915
+ 20
+4.71652070000004642
+  0
+INSERT
+  5
+144
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06149274499995272
+ 20
+4.68738145300005726
+  0
+INSERT
+  5
+145
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06149274499995272
+ 20
+4.68738145300005726
+  0
+INSERT
+  5
+146
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03807443899989948
+ 20
+4.69834393300004649
+  0
+INSERT
+  5
+147
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03807443899989948
+ 20
+4.69834393300004649
+  0
+INSERT
+  5
+148
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04045373599990398
+ 20
+4.69844899800006033
+  0
+INSERT
+  5
+149
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04045373599990398
+ 20
+4.69844899800006033
+  0
+INSERT
+  5
+14a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10635538499991526
+ 20
+4.65127020000005587
+  0
+INSERT
+  5
+14b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10635538499991526
+ 20
+4.65127020000005587
+  0
+INSERT
+  5
+14c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07254152999990993
+ 20
+4.63602983700008053
+  0
+INSERT
+  5
+14d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07254152999990993
+ 20
+4.63602983700008053
+  0
+INSERT
+  5
+14e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13684668299993064
+ 20
+4.67202530500009061
+  0
+INSERT
+  5
+14f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13684668299993064
+ 20
+4.67202530500009061
+  0
+INSERT
+  5
+150
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07817949799994039
+ 20
+4.6405561340000645
+  0
+INSERT
+  5
+151
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07817949799994039
+ 20
+4.6405561340000645
+  0
+INSERT
+  5
+152
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06367906199994877
+ 20
+4.65558662800003731
+  0
+INSERT
+  5
+153
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06367906199994877
+ 20
+4.65558662800003731
+  0
+INSERT
+  5
+154
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12988837899990813
+ 20
+4.68640423500005454
+  0
+INSERT
+  5
+155
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12988837899990813
+ 20
+4.68640423500005454
+  0
+INSERT
+  5
+156
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1846067399999356
+ 20
+4.60462020600004962
+  0
+INSERT
+  5
+157
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1846067399999356
+ 20
+4.60462020600004962
+  0
+INSERT
+  5
+158
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06368954399994209
+ 20
+4.65612884200004373
+  0
+INSERT
+  5
+159
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06368954399994209
+ 20
+4.65612884200004373
+  0
+INSERT
+  5
+15a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1104678469999385
+ 20
+4.58836077000006526
+  0
+INSERT
+  5
+15b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1104678469999385
+ 20
+4.58836077000006526
+  0
+INSERT
+  5
+15c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08452444999994668
+ 20
+4.74708046700004616
+  0
+INSERT
+  5
+15d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08452444999994668
+ 20
+4.74708046700004616
+  0
+INSERT
+  5
+15e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13833215699992252
+ 20
+4.6142316950000577
+  0
+INSERT
+  5
+15f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13833215699992252
+ 20
+4.6142316950000577
+  0
+INSERT
+  5
+160
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09276857999992671
+ 20
+4.57873483900004885
+  0
+INSERT
+  5
+161
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09276857999992671
+ 20
+4.57873483900004885
+  0
+INSERT
+  5
+162
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0604425129999413
+ 20
+4.68858927600007291
+  0
+INSERT
+  5
+163
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0604425129999413
+ 20
+4.68858927600007291
+  0
+INSERT
+  5
+164
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05743723399990586
+ 20
+4.66948546700007228
+  0
+INSERT
+  5
+165
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05743723399990586
+ 20
+4.66948546700007228
+  0
+INSERT
+  5
+166
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14212554299990643
+ 20
+4.67439338100007262
+  0
+INSERT
+  5
+167
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14212554299990643
+ 20
+4.67439338100007262
+  0
+INSERT
+  5
+168
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05677284799992321
+ 20
+4.68373159800006533
+  0
+INSERT
+  5
+169
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05677284799992321
+ 20
+4.68373159800006533
+  0
+INSERT
+  5
+16a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0497305949999145
+ 20
+4.67967897400006905
+  0
+INSERT
+  5
+16b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0497305949999145
+ 20
+4.67967897400006905
+  0
+INSERT
+  5
+16c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07416278699992063
+ 20
+4.63550775100009105
+  0
+INSERT
+  5
+16d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07416278699992063
+ 20
+4.63550775100009105
+  0
+INSERT
+  5
+16e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07012745099990525
+ 20
+4.67391497700003811
+  0
+INSERT
+  5
+16f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07012745099990525
+ 20
+4.67391497700003811
+  0
+INSERT
+  5
+170
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09598061199994845
+ 20
+4.61836550800006762
+  0
+INSERT
+  5
+171
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09598061199994845
+ 20
+4.61836550800006762
+  0
+INSERT
+  5
+172
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04730622499994297
+ 20
+4.68719398200005344
+  0
+INSERT
+  5
+173
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04730622499994297
+ 20
+4.68719398200005344
+  0
+INSERT
+  5
+174
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05635150799992061
+ 20
+4.6711017860000652
+  0
+INSERT
+  5
+175
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05635150799992061
+ 20
+4.6711017860000652
+  0
+INSERT
+  5
+176
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04505810799992105
+ 20
+4.72321446400007972
+  0
+INSERT
+  5
+177
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04505810799992105
+ 20
+4.72321446400007972
+  0
+INSERT
+  5
+178
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06544506999995292
+ 20
+4.75012959100007492
+  0
+INSERT
+  5
+179
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06544506999995292
+ 20
+4.75012959100007492
+  0
+INSERT
+  5
+17a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07892560499993806
+ 20
+4.66507843200008665
+  0
+INSERT
+  5
+17b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07892560499993806
+ 20
+4.66507843200008665
+  0
+INSERT
+  5
+17c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03228018699991253
+ 20
+4.69897296500005268
+  0
+INSERT
+  5
+17d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03228018699991253
+ 20
+4.69897296500005268
+  0
+INSERT
+  5
+17e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05930685299995275
+ 20
+4.68419994000004181
+  0
+INSERT
+  5
+17f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05930685299995275
+ 20
+4.68419994000004181
+  0
+INSERT
+  5
+180
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07287394799993763
+ 20
+4.62563395200004379
+  0
+INSERT
+  5
+181
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07287394799993763
+ 20
+4.62563395200004379
+  0
+INSERT
+  5
+182
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05703597399991622
+ 20
+4.66834390300004998
+  0
+INSERT
+  5
+183
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05703597399991622
+ 20
+4.66834390300004998
+  0
+INSERT
+  5
+184
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.16130642499990699
+ 20
+4.61579111900005046
+  0
+INSERT
+  5
+185
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.16130642499990699
+ 20
+4.61579111900005046
+  0
+INSERT
+  5
+186
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14537406399995234
+ 20
+4.62787301200006596
+  0
+INSERT
+  5
+187
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14537406399995234
+ 20
+4.62787301200006596
+  0
+INSERT
+  5
+188
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1171792109999501
+ 20
+4.63939953500005231
+  0
+INSERT
+  5
+189
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1171792109999501
+ 20
+4.63939953500005231
+  0
+INSERT
+  5
+18a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15717190199990227
+ 20
+4.61191521600005672
+  0
+INSERT
+  5
+18b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15717190199990227
+ 20
+4.61191521600005672
+  0
+INSERT
+  5
+18c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09441064799995047
+ 20
+4.55276886000007153
+  0
+INSERT
+  5
+18d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09441064799995047
+ 20
+4.55276886000007153
+  0
+INSERT
+  5
+18e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06551011099992365
+ 20
+4.61998678100007965
+  0
+INSERT
+  5
+18f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06551011099992365
+ 20
+4.61998678100007965
+  0
+INSERT
+  5
+190
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09368050299991637
+ 20
+4.57531114200008915
+  0
+INSERT
+  5
+191
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09368050299991637
+ 20
+4.57531114200008915
+  0
+INSERT
+  5
+192
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08328208899990841
+ 20
+4.56979213000005302
+  0
+INSERT
+  5
+193
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08328208899990841
+ 20
+4.56979213000005302
+  0
+INSERT
+  5
+194
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11221404099990195
+ 20
+4.55768016500007889
+  0
+INSERT
+  5
+195
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11221404099990195
+ 20
+4.55768016500007889
+  0
+INSERT
+  5
+196
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0979321349999509
+ 20
+4.58502783200003705
+  0
+INSERT
+  5
+197
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0979321349999509
+ 20
+4.58502783200003705
+  0
+INSERT
+  5
+198
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08562657599992463
+ 20
+4.53164218200004143
+  0
+INSERT
+  5
+199
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08562657599992463
+ 20
+4.53164218200004143
+  0
+INSERT
+  5
+19a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10645094499994912
+ 20
+4.54554746100006923
+  0
+INSERT
+  5
+19b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10645094499994912
+ 20
+4.54554746100006923
+  0
+INSERT
+  5
+19c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06071967899993069
+ 20
+4.71366755800005421
+  0
+INSERT
+  5
+19d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06071967899993069
+ 20
+4.71366755800005421
+  0
+INSERT
+  5
+19e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.02512902099994108
+ 20
+4.73994468200004349
+  0
+INSERT
+  5
+19f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.02512902099994108
+ 20
+4.73994468200004349
+  0
+INSERT
+  5
+1a0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10942564299995183
+ 20
+4.71126140500007295
+  0
+INSERT
+  5
+1a1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10942564299995183
+ 20
+4.71126140500007295
+  0
+INSERT
+  5
+1a2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06567864499993448
+ 20
+4.65349297600005229
+  0
+INSERT
+  5
+1a3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06567864499993448
+ 20
+4.65349297600005229
+  0
+INSERT
+  5
+1a4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06761909199991578
+ 20
+4.69277453900008368
+  0
+INSERT
+  5
+1a5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06761909199991578
+ 20
+4.69277453900008368
+  0
+INSERT
+  5
+1a6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0841366209999137
+ 20
+4.74358757200008085
+  0
+INSERT
+  5
+1a7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0841366209999137
+ 20
+4.74358757200008085
+  0
+INSERT
+  5
+1a8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.02302476999994951
+ 20
+4.74242977600005133
+  0
+INSERT
+  5
+1a9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.02302476999994951
+ 20
+4.74242977600005133
+  0
+INSERT
+  5
+1aa
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09932952899993097
+ 20
+4.68608896600005664
+  0
+INSERT
+  5
+1ab
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09932952899993097
+ 20
+4.68608896600005664
+  0
+INSERT
+  5
+1ac
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09314447999992126
+ 20
+4.7260556310000652
+  0
+INSERT
+  5
+1ad
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09314447999992126
+ 20
+4.7260556310000652
+  0
+INSERT
+  5
+1ae
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14043266799990306
+ 20
+4.71528626600007783
+  0
+INSERT
+  5
+1af
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14043266799990306
+ 20
+4.71528626600007783
+  0
+INSERT
+  5
+1b0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14469336699994528
+ 20
+4.55265862400005972
+  0
+INSERT
+  5
+1b1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14469336699994528
+ 20
+4.55265862400005972
+  0
+INSERT
+  5
+1b2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11659811399994169
+ 20
+4.51334402600008389
+  0
+INSERT
+  5
+1b3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11659811399994169
+ 20
+4.51334402600008389
+  0
+INSERT
+  5
+1b4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13725542799994628
+ 20
+4.56611786000007669
+  0
+INSERT
+  5
+1b5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13725542799994628
+ 20
+4.56611786000007669
+  0
+INSERT
+  5
+1b6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11598054499989985
+ 20
+4.53559414300008257
+  0
+INSERT
+  5
+1b7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11598054499989985
+ 20
+4.53559414300008257
+  0
+INSERT
+  5
+1b8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13870339499993634
+ 20
+4.55955459400007612
+  0
+INSERT
+  5
+1b9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13870339499993634
+ 20
+4.55955459400007612
+  0
+INSERT
+  5
+1ba
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12056802099994002
+ 20
+4.62240722200004939
+  0
+INSERT
+  5
+1bb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12056802099994002
+ 20
+4.62240722200004939
+  0
+INSERT
+  5
+1bc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.16129532599990171
+ 20
+4.64295488700008718
+  0
+INSERT
+  5
+1bd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.16129532599990171
+ 20
+4.64295488700008718
+  0
+INSERT
+  5
+1be
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1856875339999533
+ 20
+4.60937013000005891
+  0
+INSERT
+  5
+1bf
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1856875339999533
+ 20
+4.60937013000005891
+  0
+INSERT
+  5
+1c0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15371359699992126
+ 20
+4.67260214000003771
+  0
+INSERT
+  5
+1c1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15371359699992126
+ 20
+4.67260214000003771
+  0
+INSERT
+  5
+1c2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.19173971999993
+ 20
+4.59888309700005493
+  0
+INSERT
+  5
+1c3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.19173971999993
+ 20
+4.59888309700005493
+  0
+INSERT
+  5
+1c4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07958309599990798
+ 20
+4.65298671400006469
+  0
+INSERT
+  5
+1c5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07958309599990798
+ 20
+4.65298671400006469
+  0
+INSERT
+  5
+1c6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1360450859999105
+ 20
+4.61743812900004968
+  0
+INSERT
+  5
+1c7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1360450859999105
+ 20
+4.61743812900004968
+  0
+INSERT
+  5
+1c8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04695097299992312
+ 20
+4.73961888200005887
+  0
+INSERT
+  5
+1c9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04695097299992312
+ 20
+4.73961888200005887
+  0
+INSERT
+  5
+1ca
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08033968799992408
+ 20
+4.63304841400008627
+  0
+INSERT
+  5
+1cb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08033968799992408
+ 20
+4.63304841400008627
+  0
+INSERT
+  5
+1cc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.16130642499990699
+ 20
+4.61579111900005046
+  0
+INSERT
+  5
+1cd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.16130642499990699
+ 20
+4.61579111900005046
+  0
+INSERT
+  5
+1ce
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15160580699995307
+ 20
+4.62625664200004394
+  0
+INSERT
+  5
+1cf
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15160580699995307
+ 20
+4.62625664200004394
+  0
+INSERT
+  5
+1d0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.16740109999994957
+ 20
+4.58750571500007709
+  0
+INSERT
+  5
+1d1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.16740109999994957
+ 20
+4.58750571500007709
+  0
+INSERT
+  5
+1d2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11499161599994068
+ 20
+4.70172803200006229
+  0
+INSERT
+  5
+1d3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11499161599994068
+ 20
+4.70172803200006229
+  0
+INSERT
+  5
+1d4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06546459099990898
+ 20
+4.63945975800004362
+  0
+INSERT
+  5
+1d5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06546459099990898
+ 20
+4.63945975800004362
+  0
+INSERT
+  5
+1d6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07303820699991093
+ 20
+4.71381760500008795
+  0
+INSERT
+  5
+1d7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07303820699991093
+ 20
+4.71381760500008795
+  0
+INSERT
+  5
+1d8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12381449899993413
+ 20
+4.57943165500006444
+  0
+INSERT
+  5
+1d9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12381449899993413
+ 20
+4.57943165500006444
+  0
+INSERT
+  5
+1da
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1450208139999063
+ 20
+4.67259150700004966
+  0
+INSERT
+  5
+1db
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1450208139999063
+ 20
+4.67259150700004966
+  0
+INSERT
+  5
+1dc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10148660699991296
+ 20
+4.58696322600007989
+  0
+INSERT
+  5
+1dd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10148660699991296
+ 20
+4.58696322600007989
+  0
+INSERT
+  5
+1de
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09334947199994303
+ 20
+4.57222546000008379
+  0
+INSERT
+  5
+1df
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09334947199994303
+ 20
+4.57222546000008379
+  0
+INSERT
+  5
+1e0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05745906999993622
+ 20
+4.70976040400006468
+  0
+INSERT
+  5
+1e1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05745906999993622
+ 20
+4.70976040400006468
+  0
+INSERT
+  5
+1e2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07514653599992016
+ 20
+4.64480385500007742
+  0
+INSERT
+  5
+1e3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07514653599992016
+ 20
+4.64480385500007742
+  0
+INSERT
+  5
+1e4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09768893099993647
+ 20
+4.68405127300007962
+  0
+INSERT
+  5
+1e5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09768893099993647
+ 20
+4.68405127300007962
+  0
+INSERT
+  5
+1e6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07559468699992067
+ 20
+4.60477061400007415
+  0
+INSERT
+  5
+1e7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07559468699992067
+ 20
+4.60477061400007415
+  0
+INSERT
+  5
+1e8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04451342699991301
+ 20
+4.6817806020000603
+  0
+INSERT
+  5
+1e9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04451342699991301
+ 20
+4.6817806020000603
+  0
+INSERT
+  5
+1ea
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07372398999990537
+ 20
+4.69878465900006859
+  0
+INSERT
+  5
+1eb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07372398999990537
+ 20
+4.69878465900006859
+  0
+INSERT
+  5
+1ec
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10019579199990858
+ 20
+4.58559914500006016
+  0
+INSERT
+  5
+1ed
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10019579199990858
+ 20
+4.58559914500006016
+  0
+INSERT
+  5
+1ee
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+1ef
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11589281499993831
+ 20
+4.6321016560000885
+  0
+INSERT
+  5
+1f0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04641604399989774
+ 20
+4.74437371400006214
+  0
+INSERT
+  5
+1f1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04641604399989774
+ 20
+4.74437371400006214
+  0
+INSERT
+  5
+1f2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03246209399992495
+ 20
+4.69273867100008601
+  0
+INSERT
+  5
+1f3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03246209399992495
+ 20
+4.69273867100008601
+  0
+INSERT
+  5
+1f4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10635538499991526
+ 20
+4.65127020000005587
+  0
+INSERT
+  5
+1f5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10635538499991526
+ 20
+4.65127020000005587
+  0
+INSERT
+  5
+1f6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14380588599993871
+ 20
+4.66935864600009154
+  0
+INSERT
+  5
+1f7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14380588599993871
+ 20
+4.66935864600009154
+  0
+INSERT
+  5
+1f8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13528838099995255
+ 20
+4.61920716500009121
+  0
+INSERT
+  5
+1f9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13528838099995255
+ 20
+4.61920716500009121
+  0
+INSERT
+  5
+1fa
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04476712299992869
+ 20
+4.73403690100008134
+  0
+INSERT
+  5
+1fb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04476712299992869
+ 20
+4.73403690100008134
+  0
+INSERT
+  5
+1fc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06507047099989904
+ 20
+4.73810108500003935
+  0
+INSERT
+  5
+1fd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06507047099989904
+ 20
+4.73810108500003935
+  0
+INSERT
+  5
+1fe
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07096120799991468
+ 20
+4.61979040200009194
+  0
+INSERT
+  5
+1ff
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07096120799991468
+ 20
+4.61979040200009194
+  0
+INSERT
+  5
+200
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1599539579999032
+ 20
+4.61869699500005026
+  0
+INSERT
+  5
+201
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1599539579999032
+ 20
+4.61869699500005026
+  0
+INSERT
+  5
+202
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13366096999993715
+ 20
+4.57943660600005842
+  0
+INSERT
+  5
+203
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13366096999993715
+ 20
+4.57943660600005842
+  0
+INSERT
+  5
+204
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11951159699992786
+ 20
+4.6268624640000553
+  0
+INSERT
+  5
+205
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11951159699992786
+ 20
+4.6268624640000553
+  0
+INSERT
+  5
+206
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06157133999994358
+ 20
+4.68500883300004034
+  0
+INSERT
+  5
+207
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06157133999994358
+ 20
+4.68500883300004034
+  0
+INSERT
+  5
+208
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04854862399992044
+ 20
+4.67961353600009033
+  0
+INSERT
+  5
+209
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04854862399992044
+ 20
+4.67961353600009033
+  0
+INSERT
+  5
+20a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06413973899992698
+ 20
+4.69490794200004302
+  0
+INSERT
+  5
+20b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06413973899992698
+ 20
+4.69490794200004302
+  0
+INSERT
+  5
+20c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06572985499991546
+ 20
+4.67955336100004615
+  0
+INSERT
+  5
+20d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06572985499991546
+ 20
+4.67955336100004615
+  0
+INSERT
+  5
+20e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03617238399993994
+ 20
+4.74791285500003823
+  0
+INSERT
+  5
+20f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03617238399993994
+ 20
+4.74791285500003823
+  0
+INSERT
+  5
+210
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05895001499993668
+ 20
+4.70187300700007427
+  0
+INSERT
+  5
+211
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05895001499993668
+ 20
+4.70187300700007427
+  0
+INSERT
+  5
+212
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1185661979999395
+ 20
+4.61924212100007026
+  0
+INSERT
+  5
+213
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1185661979999395
+ 20
+4.61924212100007026
+  0
+INSERT
+  5
+214
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15541263899990554
+ 20
+4.58172600800008922
+  0
+INSERT
+  5
+215
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15541263899990554
+ 20
+4.58172600800008922
+  0
+INSERT
+  5
+216
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03400601999993569
+ 20
+4.73894061700008251
+  0
+INSERT
+  5
+217
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03400601999993569
+ 20
+4.73894061700008251
+  0
+INSERT
+  5
+218
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0714284699999439
+ 20
+4.62246606000007887
+  0
+INSERT
+  5
+219
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0714284699999439
+ 20
+4.62246606000007887
+  0
+INSERT
+  5
+21a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11039823999993814
+ 20
+4.65966928000005964
+  0
+INSERT
+  5
+21b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11039823999993814
+ 20
+4.65966928000005964
+  0
+INSERT
+  5
+21c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06863292999992154
+ 20
+4.71116467000007333
+  0
+INSERT
+  5
+21d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06863292999992154
+ 20
+4.71116467000007333
+  0
+INSERT
+  5
+21e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04567834999994602
+ 20
+4.7075303700000859
+  0
+INSERT
+  5
+21f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04567834999994602
+ 20
+4.7075303700000859
+  0
+INSERT
+  5
+220
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1032202399999278
+ 20
+4.74833602000006749
+  0
+INSERT
+  5
+221
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1032202399999278
+ 20
+4.74833602000006749
+  0
+INSERT
+  5
+222
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0526852599999188
+ 20
+4.67716777000003958
+  0
+INSERT
+  5
+223
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0526852599999188
+ 20
+4.67716777000003958
+  0
+INSERT
+  5
+224
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10175504999995155
+ 20
+4.64380467000006547
+  0
+INSERT
+  5
+225
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10175504999995155
+ 20
+4.64380467000006547
+  0
+INSERT
+  5
+226
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04396050999991985
+ 20
+4.70905982000004997
+  0
+INSERT
+  5
+227
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04396050999991985
+ 20
+4.70905982000004997
+  0
+INSERT
+  5
+228
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03246695999990834
+ 20
+4.71495268000006718
+  0
+INSERT
+  5
+229
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03246695999990834
+ 20
+4.71495268000006718
+  0
+INSERT
+  5
+22a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0621171599999002
+ 20
+4.64022700000003852
+  0
+INSERT
+  5
+22b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0621171599999002
+ 20
+4.64022700000003852
+  0
+INSERT
+  5
+22c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0535550199999193
+ 20
+4.68719056000009004
+  0
+INSERT
+  5
+22d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0535550199999193
+ 20
+4.68719056000009004
+  0
+INSERT
+  5
+22e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04827423999989833
+ 20
+4.7035924900000623
+  0
+INSERT
+  5
+22f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04827423999989833
+ 20
+4.7035924900000623
+  0
+INSERT
+  5
+230
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07716683999990437
+ 20
+4.62311631000005718
+  0
+INSERT
+  5
+231
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07716683999990437
+ 20
+4.62311631000005718
+  0
+INSERT
+  5
+232
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11264215999995031
+ 20
+4.68039253000006283
+  0
+INSERT
+  5
+233
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11264215999995031
+ 20
+4.68039253000006283
+  0
+INSERT
+  5
+234
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06582533999994666
+ 20
+4.59921910000008438
+  0
+INSERT
+  5
+235
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06582533999994666
+ 20
+4.59921910000008438
+  0
+INSERT
+  5
+236
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0510878299999149
+ 20
+4.71336809000007406
+  0
+INSERT
+  5
+237
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0510878299999149
+ 20
+4.71336809000007406
+  0
+INSERT
+  5
+238
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05603687999990825
+ 20
+4.70376609000004464
+  0
+INSERT
+  5
+239
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05603687999990825
+ 20
+4.70376609000004464
+  0
+INSERT
+  5
+23a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06608909999994239
+ 20
+4.62755993000007493
+  0
+INSERT
+  5
+23b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06608909999994239
+ 20
+4.62755993000007493
+  0
+INSERT
+  5
+23c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11264215999995031
+ 20
+4.68039253000006283
+  0
+INSERT
+  5
+23d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11264215999995031
+ 20
+4.68039253000006283
+  0
+INSERT
+  5
+23e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07484852999994018
+ 20
+4.70017019000005121
+  0
+INSERT
+  5
+23f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07484852999994018
+ 20
+4.70017019000005121
+  0
+INSERT
+  5
+240
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05009371999994983
+ 20
+4.70779694000009385
+  0
+INSERT
+  5
+241
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05009371999994983
+ 20
+4.70779694000009385
+  0
+INSERT
+  5
+242
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03484267999994017
+ 20
+4.69521186000008584
+  0
+INSERT
+  5
+243
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03484267999994017
+ 20
+4.69521186000008584
+  0
+INSERT
+  5
+244
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08469823999990922
+ 20
+4.68875641000005317
+  0
+INSERT
+  5
+245
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08469823999990922
+ 20
+4.68875641000005317
+  0
+INSERT
+  5
+246
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06188166999993427
+ 20
+4.64101430000005166
+  0
+INSERT
+  5
+247
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06188166999993427
+ 20
+4.64101430000005166
+  0
+INSERT
+  5
+248
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06440534999990177
+ 20
+4.65146616000004087
+  0
+INSERT
+  5
+249
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06440534999990177
+ 20
+4.65146616000004087
+  0
+INSERT
+  5
+24a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06863292999992154
+ 20
+4.71116467000007333
+  0
+INSERT
+  5
+24b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06863292999992154
+ 20
+4.71116467000007333
+  0
+INSERT
+  5
+24c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06222417999993013
+ 20
+4.67911731000003783
+  0
+INSERT
+  5
+24d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06222417999993013
+ 20
+4.67911731000003783
+  0
+INSERT
+  5
+24e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07133721999991849
+ 20
+4.65345996000007744
+  0
+INSERT
+  5
+24f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07133721999991849
+ 20
+4.65345996000007744
+  0
+INSERT
+  5
+250
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09262867999990476
+ 20
+4.61169555000009268
+  0
+INSERT
+  5
+251
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09262867999990476
+ 20
+4.61169555000009268
+  0
+INSERT
+  5
+252
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14312528999994356
+ 20
+4.63783718000007639
+  0
+INSERT
+  5
+253
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14312528999994356
+ 20
+4.63783718000007639
+  0
+INSERT
+  5
+254
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06440534999990177
+ 20
+4.65146616000004087
+  0
+INSERT
+  5
+255
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06440534999990177
+ 20
+4.65146616000004087
+  0
+INSERT
+  5
+256
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08552931999992097
+ 20
+4.54563365000007025
+  0
+INSERT
+  5
+257
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08552931999992097
+ 20
+4.54563365000007025
+  0
+INSERT
+  5
+258
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13423404999991817
+ 20
+4.61369715000006408
+  0
+INSERT
+  5
+259
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13423404999991817
+ 20
+4.61369715000006408
+  0
+INSERT
+  5
+25a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10765491999990218
+ 20
+4.65535330000005843
+  0
+INSERT
+  5
+25b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10765491999990218
+ 20
+4.65535330000005843
+  0
+INSERT
+  5
+25c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07473958999992192
+ 20
+4.62212107000004835
+  0
+INSERT
+  5
+25d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07473958999992192
+ 20
+4.62212107000004835
+  0
+INSERT
+  5
+25e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05695422999991706
+ 20
+4.66945477000007259
+  0
+INSERT
+  5
+25f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05695422999991706
+ 20
+4.66945477000007259
+  0
+INSERT
+  5
+260
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03520360999993954
+ 20
+4.71028711000008116
+  0
+INSERT
+  5
+261
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03520360999993954
+ 20
+4.71028711000008116
+  0
+INSERT
+  5
+262
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03246695999990834
+ 20
+4.71495268000006718
+  0
+INSERT
+  5
+263
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03246695999990834
+ 20
+4.71495268000006718
+  0
+INSERT
+  5
+264
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10765491999990218
+ 20
+4.65535330000005843
+  0
+INSERT
+  5
+265
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10765491999990218
+ 20
+4.65535330000005843
+  0
+INSERT
+  5
+266
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11496869999990622
+ 20
+4.6359152300000801
+  0
+INSERT
+  5
+267
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11496869999990622
+ 20
+4.6359152300000801
+  0
+INSERT
+  5
+268
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05603687999990825
+ 20
+4.70376609000004464
+  0
+INSERT
+  5
+269
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05603687999990825
+ 20
+4.70376609000004464
+  0
+INSERT
+  5
+26a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07515147999993133
+ 20
+4.63888888000008137
+  0
+INSERT
+  5
+26b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07515147999993133
+ 20
+4.63888888000008137
+  0
+INSERT
+  5
+26c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11496869999990622
+ 20
+4.6359152300000801
+  0
+INSERT
+  5
+26d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11496869999990622
+ 20
+4.6359152300000801
+  0
+INSERT
+  5
+26e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0890622399999188
+ 20
+4.67988207000007606
+  0
+INSERT
+  5
+26f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0890622399999188
+ 20
+4.67988207000007606
+  0
+INSERT
+  5
+270
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11496869999990622
+ 20
+4.6359152300000801
+  0
+INSERT
+  5
+271
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11496869999990622
+ 20
+4.6359152300000801
+  0
+INSERT
+  5
+272
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0454854199999204
+ 20
+4.73721692000003713
+  0
+INSERT
+  5
+273
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0454854199999204
+ 20
+4.73721692000003713
+  0
+INSERT
+  5
+274
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06570254999991221
+ 20
+4.64989598000005344
+  0
+INSERT
+  5
+275
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06570254999991221
+ 20
+4.64989598000005344
+  0
+INSERT
+  5
+276
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0457861499999126
+ 20
+4.7306191100000774
+  0
+INSERT
+  5
+277
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0457861499999126
+ 20
+4.7306191100000774
+  0
+INSERT
+  5
+278
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07371768999990991
+ 20
+4.7128007900000739
+  0
+INSERT
+  5
+279
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07371768999990991
+ 20
+4.7128007900000739
+  0
+INSERT
+  5
+27a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06398358999990705
+ 20
+4.63860507000003963
+  0
+INSERT
+  5
+27b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06398358999990705
+ 20
+4.63860507000003963
+  0
+INSERT
+  5
+27c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08791032999994286
+ 20
+4.62943055000005188
+  0
+INSERT
+  5
+27d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08791032999994286
+ 20
+4.62943055000005188
+  0
+INSERT
+  5
+27e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06544488999992382
+ 20
+4.62955675000006295
+  0
+INSERT
+  5
+27f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06544488999992382
+ 20
+4.62955675000006295
+  0
+INSERT
+  5
+280
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06544488999992382
+ 20
+4.62955675000006295
+  0
+INSERT
+  5
+281
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06544488999992382
+ 20
+4.62955675000006295
+  0
+INSERT
+  5
+282
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10669648999993342
+ 20
+4.62960074000005761
+  0
+INSERT
+  5
+283
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10669648999993342
+ 20
+4.62960074000005761
+  0
+INSERT
+  5
+284
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07710978999995177
+ 20
+4.65647890000008147
+  0
+INSERT
+  5
+285
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07710978999995177
+ 20
+4.65647890000008147
+  0
+INSERT
+  5
+286
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05445976999993718
+ 20
+4.70060383000009097
+  0
+INSERT
+  5
+287
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05445976999993718
+ 20
+4.70060383000009097
+  0
+INSERT
+  5
+288
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12877843999990546
+ 20
+4.57339836000005562
+  0
+INSERT
+  5
+289
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12877843999990546
+ 20
+4.57339836000005562
+  0
+INSERT
+  5
+28a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05970360999992863
+ 20
+4.68767624000008709
+  0
+INSERT
+  5
+28b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05970360999992863
+ 20
+4.68767624000008709
+  0
+INSERT
+  5
+28c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05285621999991008
+ 20
+4.68660667000006015
+  0
+INSERT
+  5
+28d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05285621999991008
+ 20
+4.68660667000006015
+  0
+INSERT
+  5
+28e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07183320999990883
+ 20
+4.68373079000008374
+  0
+INSERT
+  5
+28f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07183320999990883
+ 20
+4.68373079000008374
+  0
+INSERT
+  5
+290
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05214619999992465
+ 20
+4.72938658000003898
+  0
+INSERT
+  5
+291
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05214619999992465
+ 20
+4.72938658000003898
+  0
+INSERT
+  5
+292
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05266440999992028
+ 20
+4.72797141000006604
+  0
+INSERT
+  5
+293
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05266440999992028
+ 20
+4.72797141000006604
+  0
+INSERT
+  5
+294
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06233559999992622
+ 20
+4.63566437000008591
+  0
+INSERT
+  5
+295
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06233559999992622
+ 20
+4.63566437000008591
+  0
+INSERT
+  5
+296
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0571469099999149
+ 20
+4.69401982000005091
+  0
+INSERT
+  5
+297
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0571469099999149
+ 20
+4.69401982000005091
+  0
+INSERT
+  5
+298
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11140162999993208
+ 20
+4.59127148000004581
+  0
+INSERT
+  5
+299
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11140162999993208
+ 20
+4.59127148000004581
+  0
+INSERT
+  5
+29a
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15479254999991099
+ 20
+4.57659284000004618
+  0
+INSERT
+  5
+29b
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15479254999991099
+ 20
+4.57659284000004618
+  0
+INSERT
+  5
+29c
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15837416999994502
+ 20
+4.5705827300000692
+  0
+INSERT
+  5
+29d
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15837416999994502
+ 20
+4.5705827300000692
+  0
+INSERT
+  5
+29e
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0571469099999149
+ 20
+4.69401982000005091
+  0
+INSERT
+  5
+29f
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0571469099999149
+ 20
+4.69401982000005091
+  0
+INSERT
+  5
+2a0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10194360999992114
+ 20
+4.70595265000008567
+  0
+INSERT
+  5
+2a1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10194360999992114
+ 20
+4.70595265000008567
+  0
+INSERT
+  5
+2a2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09554820999994718
+ 20
+4.74384288000004517
+  0
+INSERT
+  5
+2a3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09554820999994718
+ 20
+4.74384288000004517
+  0
+INSERT
+  5
+2a4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09554820999994718
+ 20
+4.74384288000004517
+  0
+INSERT
+  5
+2a5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09554820999994718
+ 20
+4.74384288000004517
+  0
+INSERT
+  5
+2a6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09554820999994718
+ 20
+4.74384288000004517
+  0
+INSERT
+  5
+2a7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09554820999994718
+ 20
+4.74384288000004517
+  0
+INSERT
+  5
+2a8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08681620999993811
+ 20
+4.73937284000004411
+  0
+INSERT
+  5
+2a9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08681620999993811
+ 20
+4.73937284000004411
+  0
+INSERT
+  5
+2aa
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09590969999993604
+ 20
+4.75491944000003741
+  0
+INSERT
+  5
+2ab
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09590969999993604
+ 20
+4.75491944000003741
+  0
+INSERT
+  5
+2ac
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05726313999991817
+ 20
+4.65319721000008713
+  0
+INSERT
+  5
+2ad
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05726313999991817
+ 20
+4.65319721000008713
+  0
+INSERT
+  5
+2ae
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08410174999994524
+ 20
+4.6811919100000523
+  0
+INSERT
+  5
+2af
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08410174999994524
+ 20
+4.6811919100000523
+  0
+INSERT
+  5
+2b0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05553892999989785
+ 20
+4.70306618000006438
+  0
+INSERT
+  5
+2b1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05553892999989785
+ 20
+4.70306618000006438
+  0
+INSERT
+  5
+2b2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11358189999992874
+ 20
+4.7239227900000742
+  0
+INSERT
+  5
+2b3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11358189999992874
+ 20
+4.7239227900000742
+  0
+INSERT
+  5
+2b4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11679454999995187
+ 20
+4.63186262000004945
+  0
+INSERT
+  5
+2b5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11679454999995187
+ 20
+4.63186262000004945
+  0
+INSERT
+  5
+2b6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03593350999994982
+ 20
+4.71913576000008561
+  0
+INSERT
+  5
+2b7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03593350999994982
+ 20
+4.71913576000008561
+  0
+INSERT
+  5
+2b8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.02452381999989939
+ 20
+4.72761559000008447
+  0
+INSERT
+  5
+2b9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.02452381999989939
+ 20
+4.72761559000008447
+  0
+INSERT
+  5
+2ba
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08892265999992333
+ 20
+4.5918101800000386
+  0
+INSERT
+  5
+2bb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08892265999992333
+ 20
+4.5918101800000386
+  0
+INSERT
+  5
+2bc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05869551999990108
+ 20
+4.68369555000003857
+  0
+INSERT
+  5
+2bd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05869551999990108
+ 20
+4.68369555000003857
+  0
+INSERT
+  5
+2be
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10632530999993151
+ 20
+4.57935038000005079
+  0
+INSERT
+  5
+2bf
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10632530999993151
+ 20
+4.57935038000005079
+  0
+INSERT
+  5
+2c0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03239184999995359
+ 20
+4.69938291000005393
+  0
+INSERT
+  5
+2c1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03239184999995359
+ 20
+4.69938291000005393
+  0
+INSERT
+  5
+2c2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05946380999989742
+ 20
+4.6822402500000635
+  0
+INSERT
+  5
+2c3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05946380999989742
+ 20
+4.6822402500000635
+  0
+INSERT
+  5
+2c4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11358189999992874
+ 20
+4.7239227900000742
+  0
+INSERT
+  5
+2c5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11358189999992874
+ 20
+4.7239227900000742
+  0
+INSERT
+  5
+2c6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08681620999993811
+ 20
+4.73937284000004411
+  0
+INSERT
+  5
+2c7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08681620999993811
+ 20
+4.73937284000004411
+  0
+INSERT
+  5
+2c8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09259787999991431
+ 20
+4.76076659000005975
+  0
+INSERT
+  5
+2c9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09259787999991431
+ 20
+4.76076659000005975
+  0
+INSERT
+  5
+2ca
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05018329999990101
+ 20
+4.70860115000004953
+  0
+INSERT
+  5
+2cb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05018329999990101
+ 20
+4.70860115000004953
+  0
+INSERT
+  5
+2cc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05018329999990101
+ 20
+4.70860115000004953
+  0
+INSERT
+  5
+2cd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05018329999990101
+ 20
+4.70860115000004953
+  0
+INSERT
+  5
+2ce
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05263717999991968
+ 20
+4.68789634000006572
+  0
+INSERT
+  5
+2cf
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05263717999991968
+ 20
+4.68789634000006572
+  0
+INSERT
+  5
+2d0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.06871009999991884
+ 20
+4.62748423000005005
+  0
+INSERT
+  5
+2d1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.06871009999991884
+ 20
+4.62748423000005005
+  0
+INSERT
+  5
+2d2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.13931457999990471
+ 20
+4.61860284000005095
+  0
+INSERT
+  5
+2d3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.13931457999990471
+ 20
+4.61860284000005095
+  0
+INSERT
+  5
+2d4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.11152842999990753
+ 20
+4.57753274000003785
+  0
+INSERT
+  5
+2d5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.11152842999990753
+ 20
+4.57753274000003785
+  0
+INSERT
+  5
+2d6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07728005999990728
+ 20
+4.71358762000005527
+  0
+INSERT
+  5
+2d7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07728005999990728
+ 20
+4.71358762000005527
+  0
+INSERT
+  5
+2d8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07728005999990728
+ 20
+4.71358762000005527
+  0
+INSERT
+  5
+2d9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07728005999990728
+ 20
+4.71358762000005527
+  0
+INSERT
+  5
+2da
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0571469099999149
+ 20
+4.69401982000005091
+  0
+INSERT
+  5
+2db
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0571469099999149
+ 20
+4.69401982000005091
+  0
+INSERT
+  5
+2dc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09486100999993141
+ 20
+4.7404035500000532
+  0
+INSERT
+  5
+2dd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09486100999993141
+ 20
+4.7404035500000532
+  0
+INSERT
+  5
+2de
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14003764999989698
+ 20
+4.60454242000008662
+  0
+INSERT
+  5
+2df
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14003764999989698
+ 20
+4.60454242000008662
+  0
+INSERT
+  5
+2e0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10391685999991296
+ 20
+4.70485775000008744
+  0
+INSERT
+  5
+2e1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10391685999991296
+ 20
+4.70485775000008744
+  0
+INSERT
+  5
+2e2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0702197399999136
+ 20
+4.7195838800000729
+  0
+INSERT
+  5
+2e3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0702197399999136
+ 20
+4.7195838800000729
+  0
+INSERT
+  5
+2e4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04551761999994142
+ 20
+4.74204097000006186
+  0
+INSERT
+  5
+2e5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04551761999994142
+ 20
+4.74204097000006186
+  0
+INSERT
+  5
+2e6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.15557419999993272
+ 20
+4.5820499800000789
+  0
+INSERT
+  5
+2e7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.15557419999993272
+ 20
+4.5820499800000789
+  0
+INSERT
+  5
+2e8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08002288999995244
+ 20
+4.65330827000008185
+  0
+INSERT
+  5
+2e9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08002288999995244
+ 20
+4.65330827000008185
+  0
+INSERT
+  5
+2ea
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05708726999989722
+ 20
+4.66244142000005013
+  0
+INSERT
+  5
+2eb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05708726999989722
+ 20
+4.66244142000005013
+  0
+INSERT
+  5
+2ec
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.10577164999995148
+ 20
+4.58373004000009132
+  0
+INSERT
+  5
+2ed
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.10577164999995148
+ 20
+4.58373004000009132
+  0
+INSERT
+  5
+2ee
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08160974999992732
+ 20
+4.616762890000075
+  0
+INSERT
+  5
+2ef
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08160974999992732
+ 20
+4.616762890000075
+  0
+INSERT
+  5
+2f0
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.0861946999999077
+ 20
+4.58717437000007067
+  0
+INSERT
+  5
+2f1
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.0861946999999077
+ 20
+4.58717437000007067
+  0
+INSERT
+  5
+2f2
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.02431928999993715
+ 20
+4.75755171000008659
+  0
+INSERT
+  5
+2f3
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.02431928999993715
+ 20
+4.75755171000008659
+  0
+INSERT
+  5
+2f4
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.12081768999991027
+ 20
+4.71049992000007478
+  0
+INSERT
+  5
+2f5
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.12081768999991027
+ 20
+4.71049992000007478
+  0
+INSERT
+  5
+2f6
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.1322279099999264
+ 20
+4.58367939000004299
+  0
+INSERT
+  5
+2f7
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.1322279099999264
+ 20
+4.58367939000004299
+  0
+INSERT
+  5
+2f8
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.14898464999993166
+ 20
+4.65094885000007707
+  0
+INSERT
+  5
+2f9
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.14898464999993166
+ 20
+4.65094885000007707
+  0
+INSERT
+  5
+2fa
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.20013846999989937
+ 20
+4.61735720000007177
+  0
+INSERT
+  5
+2fb
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.20013846999989937
+ 20
+4.61735720000007177
+  0
+INSERT
+  5
+2fc
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.09948630999991792
+ 20
+4.60016929000005348
+  0
+INSERT
+  5
+2fd
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.09948630999991792
+ 20
+4.60016929000005348
+  0
+INSERT
+  5
+2fe
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.07957463999991887
+ 20
+4.70134406000005356
+  0
+INSERT
+  5
+2ff
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.07957463999991887
+ 20
+4.70134406000005356
+  0
+INSERT
+  5
+300
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.04438827999990735
+ 20
+4.74177699000006214
+  0
+INSERT
+  5
+301
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.04438827999990735
+ 20
+4.74177699000006214
+  0
+INSERT
+  5
+302
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.16893081999990045
+ 20
+4.63234112000009191
+  0
+INSERT
+  5
+303
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.16893081999990045
+ 20
+4.63234112000009191
+  0
+INSERT
+  5
+304
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.03075011999993649
+ 20
+4.70483672000005981
+  0
+INSERT
+  5
+305
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.03075011999993649
+ 20
+4.70483672000005981
+  0
+INSERT
+  5
+306
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.08220127999993565
+ 20
+4.62664748000008785
+  0
+INSERT
+  5
+307
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.08220127999993565
+ 20
+4.62664748000008785
+  0
+INSERT
+  5
+308
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer0
+ 50
+0.0
+ 10
+-74.05106354999992391
+ 20
+4.68677058000008628
+  0
+INSERT
+  5
+309
+100
+AcDbEntity
+100
+AcDbBlockReference
+  8
+pediatria
+  2
+symbolLayer1
+ 50
+0.0
+ 10
+-74.05106354999992391
+ 20
+4.68677058000008628
+  0
+ENDSEC
+0
+SECTION
+2
+OBJECTS
+0
+DICTIONARY
+5
+C
+330
+0
+100
+AcDbDictionary
+281
+   1
+3
+ACAD_GROUP
+350
+D
+3
+ACAD_LAYOUT
+350
+1A
+3
+ACAD_MLEADERSTYLE
+350
+43
+3
+ACAD_MLINESTYLE
+350
+17
+3
+ACAD_PLOTSETTINGS
+350
+19
+3
+ACAD_PLOTSTYLENAME
+350
+E
+3
+ACAD_TABLESTYLE
+350
+42
+3
+ACAD_VISUALSTYLE
+350
+2A
+0
+DICTIONARY
+5
+D
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+0
+DICTIONARY
+5
+1A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+3
+Layout1
+350
+1E
+3
+Layout2
+350
+26
+3
+Model
+350
+22
+0
+DICTIONARY
+5
+43
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+0
+DICTIONARY
+5
+17
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+3
+Standard
+350
+18
+0
+DICTIONARY
+5
+19
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+0
+ACDBDICTIONARYWDFLT
+5
+E
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+3
+Normal
+350
+F
+100
+AcDbDictionaryWithDefault
+340
+F
+0
+DICTIONARY
+5
+42
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+0
+DICTIONARY
+5
+2A
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+   1
+3
+2dWireframe
+350
+2F
+3
+3D Hidden
+350
+31
+3
+3dWireframe
+350
+30
+3
+Basic
+350
+32
+3
+Brighten
+350
+36
+3
+ColorChange
+350
+3A
+3
+Conceptual
+350
+34
+3
+Dim
+350
+35
+3
+Facepattern
+350
+39
+3
+Flat
+350
+2B
+3
+FlatWithEdges
+350
+2C
+3
+Gouraud
+350
+2D
+3
+GouraudWithEdges
+350
+2E
+3
+Linepattern
+350
+38
+3
+Realistic
+350
+33
+3
+Thicken
+350
+37
+0
+LAYOUT
+5
+1E
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+1
+
+2
+none_device
+4
+
+6
+
+40
+0.0
+41
+0.0
+42
+0.0
+43
+0.0
+44
+0.0
+45
+0.0
+46
+0.0
+47
+0.0
+48
+0.0
+49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+70
+ 688
+72
+   0
+73
+   0
+74
+   5
+7
+
+75
+  16
+76
+   0
+77
+   2
+78
+ 300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+1
+Layout1
+70
+   1
+71
+   1
+10
+0.0
+20
+0.0
+11
+12.0
+21
+9.0
+12
+0.0
+22
+0.0
+32
+0.0
+14
+1.000000000000000E+20
+24
+1.000000000000000E+20
+34
+1.000000000000000E+20
+15
+-1.000000000000000E+20
+25
+-1.000000000000000E+20
+35
+-1.000000000000000E+20
+146
+0.0
+13
+0.0
+23
+0.0
+33
+0.0
+16
+1.0
+26
+0.0
+36
+0.0
+17
+0.0
+27
+1.0
+37
+0.0
+76
+   0
+330
+1B
+0
+LAYOUT
+5
+26
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+1
+
+2
+none_device
+4
+
+6
+
+40
+0.0
+41
+0.0
+42
+0.0
+43
+0.0
+44
+0.0
+45
+0.0
+46
+0.0
+47
+0.0
+48
+0.0
+49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+70
+ 688
+72
+   0
+73
+   0
+74
+   5
+7
+
+75
+  16
+76
+   0
+77
+   2
+78
+ 300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+1
+Layout2
+70
+   1
+71
+   2
+10
+0.0
+20
+0.0
+11
+0.0
+21
+0.0
+12
+0.0
+22
+0.0
+32
+0.0
+14
+0.0
+24
+0.0
+34
+0.0
+15
+0.0
+25
+0.0
+35
+0.0
+146
+0.0
+13
+0.0
+23
+0.0
+33
+0.0
+16
+1.0
+26
+0.0
+36
+0.0
+17
+0.0
+27
+1.0
+37
+0.0
+76
+   0
+330
+23
+0
+LAYOUT
+5
+22
+102
+{ACAD_REACTORS
+330
+1A
+102
+}
+330
+1A
+100
+AcDbPlotSettings
+1
+
+2
+none_device
+4
+
+6
+
+40
+0.0
+41
+0.0
+42
+0.0
+43
+0.0
+44
+0.0
+45
+0.0
+46
+0.0
+47
+0.0
+48
+0.0
+49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+70
+1712
+72
+   0
+73
+   0
+74
+   0
+7
+
+75
+   0
+76
+   0
+77
+   2
+78
+ 300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+1
+Model
+70
+   1
+71
+   0
+10
+0.0
+20
+0.0
+11
+12.0
+21
+9.0
+12
+0.0
+22
+0.0
+32
+0.0
+14
+30.0
+24
+49.75
+34
+0.0
+15
+130.5
+25
+163.1318914119703
+35
+0.0
+146
+0.0
+13
+0.0
+23
+0.0
+33
+0.0
+16
+1.0
+26
+0.0
+36
+0.0
+17
+0.0
+27
+1.0
+37
+0.0
+76
+   0
+330
+1F
+331
+29
+0
+MLINESTYLE
+5
+18
+102
+{ACAD_REACTORS
+330
+17
+102
+}
+330
+17
+100
+AcDbMlineStyle
+2
+Standard
+70
+   0
+3
+
+62
+ 256
+51
+90.0
+52
+90.0
+71
+   2
+49
+0.5
+62
+ 256
+6
+BYLAYER
+49
+-0.5
+62
+ 256
+6
+BYLAYER
+0
+ACDBPLACEHOLDER
+5
+F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+0
+VISUALSTYLE
+5
+2F
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+2dWireframe
+70
+   4
+71
+   0
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      0
+66
+ 257
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   0
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+31
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+3D Hidden
+70
+   6
+71
+   1
+72
+   2
+73
+   2
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   2
+91
+      2
+64
+   7
+65
+ 257
+75
+   2
+175
+   1
+42
+40.0
+92
+      0
+66
+ 257
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   3
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   0
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+30
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+3dWireframe
+70
+   5
+71
+   0
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      0
+66
+ 257
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   0
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+32
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Basic
+70
+   7
+71
+   1
+72
+   0
+73
+   1
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   0
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+36
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Brighten
+70
+  12
+71
+   2
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+50.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+3A
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+ColorChange
+70
+  16
+71
+   2
+72
+   2
+73
+   3
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   8
+421
+8421504
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   8
+424
+8421504
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+34
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Conceptual
+70
+   9
+71
+   3
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   2
+91
+      2
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+40.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   3
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   0
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+35
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Dim
+70
+  11
+71
+   2
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+-50.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+39
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Facepattern
+70
+  15
+71
+   2
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+2B
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Flat
+70
+   0
+71
+   2
+72
+   1
+73
+   1
+90
+      2
+40
+-0.6
+41
+30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   0
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+     13
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+2C
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+FlatWithEdges
+70
+   1
+71
+   2
+72
+   1
+73
+   1
+90
+      2
+40
+-0.6
+41
+30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      0
+66
+ 257
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+     13
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+2D
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Gouraud
+70
+   2
+71
+   2
+72
+   2
+73
+   1
+90
+      2
+40
+-0.6
+41
+30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   0
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      0
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+     13
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+2E
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+GouraudWithEdges
+70
+   3
+71
+   2
+72
+   2
+73
+   1
+90
+      2
+40
+-0.6
+41
+30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      0
+66
+ 257
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+     13
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+38
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Linepattern
+70
+  14
+71
+   2
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   7
+175
+   7
+42
+1.0
+92
+      8
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+33
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Realistic
+70
+   8
+71
+   2
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      0
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+      8
+66
+   8
+424
+7895160
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+     13
+44
+0.0
+173
+   0
+291
+   0
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+VISUALSTYLE
+5
+37
+102
+{ACAD_REACTORS
+330
+2A
+102
+}
+330
+2A
+100
+AcDbVisualStyle
+2
+Thicken
+70
+  13
+71
+   2
+72
+   2
+73
+   0
+90
+      0
+40
+-0.6
+41
+-30.0
+62
+   5
+63
+   7
+421
+16777215
+74
+   1
+91
+      4
+64
+   7
+65
+ 257
+75
+   1
+175
+   1
+42
+1.0
+92
+     12
+66
+   7
+43
+1.0
+76
+   1
+77
+   6
+78
+   2
+67
+   7
+79
+   5
+170
+   0
+171
+   0
+290
+   0
+174
+   0
+93
+      1
+44
+0.0
+173
+   0
+291
+   1
+45
+0.0
+1001
+ACAD
+1000
+AcDbSavedByObjectVersion
+1070
+   0
+0
+ENDSEC
+  0
+EOF
